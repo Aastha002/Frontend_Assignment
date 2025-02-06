@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "Smartphone",
+      "price": 699,
+      "image": "https://m.media-amazon.com/images/I/51AHHmX-17L.jpg",
+      "category": "Electronics",
+      "description": "Latest smartphone with amazing features."
+    },
+    {
+      "id": 2,
+      "name": "Running Shoes",
+      "price": 120,
+      "image": "https://fausto.in/cdn/shop/products/FST_FOBWC-1503_GOLDEN_1-1_MOOD_6611f676-23f5-4eb0-bd7b-c527c4123b70_400x.jpg?v=1679576984",
+      "category": "Fashion",
+      "description": "Comfortable running shoes for daily use."
+    },
+    {
+      "id": 3,
+      "name": "Laptop",
+      "price": 999,
+      "image": "https://m.media-amazon.com/images/I/510uTHyDqGL._AC_UF1000,1000_QL80_.jpg",
+      "category": "Electronics",
+      "description": "Powerful laptop with high performance."
+    },
+    {
+      "id": 4,
+      "name": "Headphones",
+      "price": 200,
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MQTQ3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1687660671363",
+      "category": "Accessories",
+      "description": "Noise-cancelling headphones with amazing sound quality."
+    },
+    {
+      "id": 5,
+      "name": "Sunglasses",
+      "price": 50,
+      "image": "https://images-cdn.ubuy.co.in/6429582590740665f65bb234-wearme-pro-flat-top-polarized-lens.jpg",
+      "category": "Fashion",
+      "description": "Stylish sunglasses for summer."
+    },
+    {
+      "id": 6,
+      "name": "Smart Watch",
+      "price": 149,
+      "image": "https://www.leafstudios.in/cdn/shop/files/1_1099cd20-7237-4bdf-a180-b7126de5ef3d_grande.png?v=1722230645",
+      "category": "Accessories",
+      "description": "Smartwatch with fitness tracking features."
+    },
+    {
+      "id": 7,
+      "name": "Coffee Maker",
+      "price": 80,
+      "image": "https://images.philips.com/is/image/philipsconsumer/vrs_a6f229ac53eb2ad8dcf9e281050310d76783fec6?wid=700&hei=700&$pnglarge$",
+      "category": "Home Appliances",
+      "description": "Automatic coffee maker with multiple brewing options."
+    },
+    {
+      "id": 8,
+      "name": "Backpack",
+      "price": 45,
+      "image": "https://www.fgear.in/cdn/shop/files/1_9822ae18-0551-41fa-8cc1-1745a1359531.jpg?v=1717826522&width=1946",
+      "category": "Fashion",
+      "description": "Durable and stylish backpack for everyday use."
+    },
+    {
+      "id": 9,
+      "name": "Water Bottle",
+      "price": 25,
+      "image": "https://pexpo.in/cdn/shop/files/StereoBlueInfomative1.jpg?v=1695107439&width=1946",
+      "category": "Home Appliances",
+      "description": "Stainless steel water bottle to keep drinks cold or hot."
+    },
+    {
+      "id": 10,
+      "name": "Camera",
+      "price": 550,
+      "image": "https://m.media-amazon.com/images/I/61UQJdled-L.jpg",
+      "category": "Electronics",
+      "description": "High-definition camera for professional photography."
+    }
+  ]
+  

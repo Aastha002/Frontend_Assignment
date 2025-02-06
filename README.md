@@ -1,8 +1,11 @@
 Product Dashboard App -
+
 Overview
+
 This is a product dashboard application built using React, allowing users to browse products, filter them by category, add them to a shopping cart, and mark them as favorites. It is designed to showcase modern eCommerce features and is fully responsive for different screen sizes.
 
 Key Features - 
+
 Product Display: Displays a list of products with details such as name, description, price, and image.
 Category Filtering: Allows users to filter products by categories such as "Electronics", "Clothing", etc. The products are dynamically filtered based on the selected category.
 Add to Cart: Users can add products to their shopping cart, with a cart icon showing the number of items added.
